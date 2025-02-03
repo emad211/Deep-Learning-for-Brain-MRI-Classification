@@ -20,7 +20,7 @@ This project explores **Deep Learning models** for **Brain MRI Tumor Classificat
 ## 📂 Project Structure
 ```
 📦 DeepLearning-BrainMRI
-├── 📜 Deep_learning_models.ipynb   # Jupyter Notebook with full implementation
+├── 📜 _Deep_learning_models.ipynb   # Jupyter Notebook with full implementation
 ├── 📜 README.md                    # Project documentation
 ```
 
